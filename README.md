@@ -1,10 +1,16 @@
 # ic3103_arduino
-1.bluetooth connect code
+research of electronic components
 
-2.motor control code
+##As a member of electronic part, I go to find Arduino code related to:
+1.	Bluetooth receive and communication
+   
+2.	Motor control
 
-3.speaker play sound code
+   
+3.	Speaker play sound
 
-4.image transfer code
+   
+4.	Mic receive sound
 
-5.led light code
+   
+5.	Camera record and transfer videos
